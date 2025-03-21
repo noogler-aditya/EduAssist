@@ -1,4 +1,4 @@
-# EduAssist - Educational Management System
+# EduAssist - Educational Management System (hello)
 
 A full-stack educational management system built with React, Node.js, Express, and Firebase.
 
